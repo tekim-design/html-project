@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.blind,legend{display:block; position:absolute; top:-100000em; left:0; overflow:hidden}
+
+/*font color*/
+.f_c_g{color:#3ba892 !important}
+/*폰트*/
+.f_c_b{color:#0071b9 !important;}
+.f_c_o{color:#e43f19 !important;}
+.f_c_y{color:#e8af3d !important;}
+.f_c_dg{color:#333 !important; font-weight:600 !important;}
+.f_c_gr{color:#168295 !important;}
+.f_c_r{color:#f62a2a !important;}
+.f_gold{color:#a97633 !important;}
+.f_c_p{color:#7f46de !important}
+.f_c_pk{ color:#ff5371 !important; }
+
+.f_20{font-size:20px !important;}
+.f_18{font-size:18px !important;}
+.f_16{font-size:16px !important;}
+.f_14{font-size:14px;}
+.f_11{font-size:11px !important;}
+.f_12{font-size:12px !important;}
+.f_10{font-size:10px;}
+
+
+ .m_t10{ margin-top:10px !important}
+ .m_t20{ margin-top:20px !important}
+ .m_t30{ margin-top:30px !important}
+ .m_t50{ margin-top:50px !important}
+ .m_t70{ margin-top:70px !important}
+ 
+ .m_b10{ margin-bottom:10px !important;}
+ .m_b15{ margin-bottom:15px !important;}
+ .m_b20{ margin-bottom:20px !important}
+ .m_b30{ margin-bottom:30px !important;} 
+ .m_b50{ margin-bottom:50px !important}
+ .m_b60{ margin-bottom:60px !important}
+ 
+ .m_l15{ margin-left:15px !important}
+ .m_l30{ margin-left:30px !important}
+ 
+ .m_r10 { margin-right:10px !important;}
+ .m_r15 { margin-right:15px !important;}
+
+
+
+ 
+ .W150{ width:150px !important}
+ .W60_{ width:60% !important} .W20_{ width:20% !important} .W30_{ width:30% !important}
+ 
+ 
+ .btn-01 {background: #378ffc; padding: 3px 15px; border-radius: 4px; border:0; color:#fff; font-size: 17px; margin: 0 5px;}
+
+.btn_plus{position:absolute;right:0px;top:0px;width:25px;height:25px;-webkit-transition: all 0.3s ease 0s;transition: all 0.3s ease 0s; cursor:pointer; border:0; background-color: #fff;}
+.btn_plus:after { width:  100%; height:  1px; top: 50%;  left:  0; display:  block; background:  #777777; margin-top: -1px; position:  absolute; content: "";}
+.btn_plus:before { width:  1px; height:  100%; top: 0;  left:  50%; display:  block; background:  #777777; margin-left: -1px; position:  absolute; content: "";}
+.btn_plus:hover{transform:rotate(180deg);-webkit-transition: all 0.3s ease 0s;  transition: all 0.3s ease 0s;} 
+
+.sr-only{border: 0;clip: rect(0, 0, 0, 0);height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;width: 1px;}
+
+
+
+
+
+
+
+
+
+
+
